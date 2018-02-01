@@ -1,0 +1,5 @@
+﻿  WarGames.cpp
+c:\users\aleskipp\documents\visual studio 2017\projects\wargames\wargames\wargames.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aleskipp\documents\visual studio 2017\projects\wargames\wargames\wargames.cpp(17): warning C4101: 'search': unreferenced local variable
+  WarGames.vcxproj -> c:\users\aleskipp\documents\visual studio 2017\Projects\WarGames\Debug\WarGames.exe
+  WarGames.vcxproj -> c:\users\aleskipp\documents\visual studio 2017\Projects\WarGames\Debug\WarGames.pdb (Partial PDB)
